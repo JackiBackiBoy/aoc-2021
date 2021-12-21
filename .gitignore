@@ -2,6 +2,7 @@
 **/*.class
 **/.bloop
 **/.metals
+**/.vscode
 **/project/metals.sbt
 **/.bsp
 
