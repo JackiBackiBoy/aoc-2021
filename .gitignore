@@ -1,2 +1,9 @@
-*.class
-*.log
+# Scala
+**/*.class
+**/.bloop
+**/.metals
+**/project/metals.sbt
+**/.bsp
+
+# SBT
+**/target
